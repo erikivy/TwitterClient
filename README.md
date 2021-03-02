@@ -32,6 +32,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
 <img src="https://github.com/erikivy/TwitterClient/blob/master/WalkthroughWeek1.gif" width=250><br>
 
 
